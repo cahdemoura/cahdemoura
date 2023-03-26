@@ -10,7 +10,7 @@ In the last few years, I have worked as an game developer for indie games and as
 <br>
 
 <div align="center">
-  <a href="https://www.artstation.com/caiquemoura" target="_blank"> <img height="30"src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
+  <a href="https://www.artstation.com/caiquemoura" target="_blank"> <img height="30"src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
  <a href="https://www.artstation.com/caiquemoura" target="_blank"> <img height="30"src="https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white" target="_blank"></a>
  <a href="https://www.artstation.com/caiquemoura" target="_blank"> <img height="30"src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
  
