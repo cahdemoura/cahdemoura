@@ -53,4 +53,4 @@ In the last few years, I have worked as an game developer for indie games and as
 <img height ="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueMouraGit&layout=compact&theme=cobalt">
 </div>
 
-![snake animation](http://github.com/CaiqueMouraGit/CaiqueMouraGit/blob/github-contribution-grid-snake.svg)
+![snake animation](http://github.com/CaiqueMouraGit/CaiqueMouraGit/blob/output/github-contribution-grid-snake.svg)
