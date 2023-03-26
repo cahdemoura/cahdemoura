@@ -6,7 +6,8 @@
 <p>My name is Cah Moura. I'm a technology enthusiast interested in studying and learning everything I can about the subject!
 In the last few years, I have worked as an game developer for indie games and as a freelance 3D artist.</p>
 </div>
-<hr>
+
+##
 
 <div align="left" >
 <h4>Softwares:</h4>
@@ -36,7 +37,7 @@ In the last few years, I have worked as an game developer for indie games and as
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
-<hr>
+##
 
 <div align="center">
 <img height ="180cm" src="https://github-readme-stats.vercel.app/api?username=CaiqueMouraGit&show_icons=true&theme=dracula">
