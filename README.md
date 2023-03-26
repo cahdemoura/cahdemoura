@@ -40,7 +40,6 @@ In the last few years, I have worked as an game developer for indie games and as
 ##
 
 <div align="center">
-<img height ="180cm" src="https://github-readme-stats.vercel.app/api?username=CaiqueMouraGit&show_icons=true&theme=dracula">
-
-<img height ="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueMouraGit&layout=compact&theme=dracula">
+<img height ="100cm" src="https://github-readme-stats.vercel.app/api?username=CaiqueMouraGit&show_icons=true&theme=dracula">
+<img height ="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueMouraGit&layout=compact&theme=dracula">
 </div>
