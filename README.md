@@ -6,6 +6,12 @@
 <p>My name is Cah Moura. I'm a technology enthusiast interested in studying and learning everything I can about the subject!
 In the last few years, I have worked as an game developer for indie games and as a freelance 3D artist.</p>
 </div>
+<br>
+<br>
+
+<div align="center">
+ <img href="https://www.artstation.com/caiquemoura" height="20" width="20" src="https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white"/>
+</div>
 
 ##
 
