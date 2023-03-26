@@ -10,7 +10,7 @@ In the last few years, I have worked as an game developer for indie games and as
 <br>
 
 <div align="center">
- <img href="https://www.artstation.com/caiquemoura" height="20" width="20" src="https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white"/>
+ <a href="https://www.artstation.com/caiquemoura" target="_blank"> <img height="20" width="20" src="https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white" target="_blank"></a>
 </div>
 
 ##
