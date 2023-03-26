@@ -14,7 +14,6 @@ In the last few years, I have worked as an game developer for indie games and as
  <a href="https://www.artstation.com/caiquemoura" target="_blank"> <img height="30"src="https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/caique.demoura/" target="_blank"> <img height="30"src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
  
- 
 </div>
 
 ##
@@ -50,6 +49,6 @@ In the last few years, I have worked as an game developer for indie games and as
 ##
 
 <div align="center">
-<img height ="140cm" src="https://github-readme-stats.vercel.app/api?username=CaiqueMouraGit&show_icons=true&theme=dracula">
-<img height ="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueMouraGit&layout=compact&theme=dracula">
+<img height ="150cm" src="https://github-readme-stats.vercel.app/api?username=CaiqueMouraGit&show_icons=true&theme=cobalt">
+<img height ="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueMouraGit&layout=compact&theme=cobalt">
 </div>
