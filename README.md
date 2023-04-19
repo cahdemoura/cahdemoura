@@ -4,7 +4,7 @@
 
 <div align = "center">
 <p>My name is Cah Moura. I'm a technology enthusiast interested in studying and learning everything I can about the subject!
-In the last few years, I have worked as an game developer for indie games and as a freelance 3D artist.</p>
+In the last few years, I have worked as a game developer for indie games and as a freelance 3D artist.</p>
 </div>
 <br>
 <br>
