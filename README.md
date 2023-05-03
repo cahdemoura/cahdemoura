@@ -50,6 +50,6 @@ In the last few years, I have worked as a game developer for indie games and as 
 
 <div align="center">
 <img height ="150cm" src="https://github-readme-stats.vercel.app/api?username=CaiqueMouraGit&show_icons=true&theme=cobalt">
-<img height ="150cm" src="https://github.com/PencilNavigator/readme-stats-URL/api/top-langs/?username=caiqueMouraGit&layout=compact&theme=cobalt">
+<img height ="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueMouraGit&layout=compact&theme=cobalt">
 </div>
 
