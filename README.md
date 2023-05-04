@@ -49,7 +49,7 @@ In the last few years, I have worked as a game developer for indie games and as 
 
 
 <div align="center">
-<img height ="200cm" src="[![CaiqueMouraGit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CaiqueMouraGit)](https://github.com/anuraghazra/github-readme-stats)">
+<img height ="200cm" src=[![CaiqueMouraGit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CaiqueMouraGit)](https://github.com/anuraghazra/github-readme-stats)>
 </div>
 
 ##
