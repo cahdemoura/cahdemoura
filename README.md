@@ -49,7 +49,7 @@ In the last few years, I have worked as a game developer for indie games and as 
 ##
 
 <div align="center">
-<img height ="150cm" src="https://github-readme-stats.vercel.app/api?username=CaiqueMouraGit&show_icons=true">
+<img height ="150cm" src="https://github-readme-stats.vercel.app/api?username=CaiqueMouraGit&show_icons=true"><br>
 <img height ="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueMouraGit&langs_count=10&layout=compact">
 </div>
 
