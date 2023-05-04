@@ -46,13 +46,11 @@ In the last few years, I have worked as a game developer for indie games and as 
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
-
+##
 
 <div align="center">
-<img height ="200cm" src="https://github-readme-stats.vercel.app/api?username=CaiqueMouraGit&show_icons=true">
+<img height ="200cm" src="https://github-readme-stats.vercel.app/api/?username=CaiqueMouraGit&show_icons=true">
 </div>
-
-##
 
 <div align="center">
 <img height ="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueMouraGit&langs_count=10">
