@@ -53,5 +53,5 @@ In the last few years, I have worked as a game developer for indie games and as 
 </div>
 
 <div align="center">
-<img height ="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueMouraGit&langs_count=10">
+<img height ="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueMouraGit&langs_count=1&layout=compact">
 </div>
