@@ -13,7 +13,7 @@ In the last few years, I have worked as a game developer for indie games and as 
 <a href="https://www.cmouradev.com" target="_blank"> <img height="30" src="https://custom-icon-badges.demolab.com/badge/-My Website-1f2937?style=for-the-badge&logo=icons8-www-50&logoColor=white" target="_blank"></a>  
 <a href="https://br.linkedin.com/in/caiquemoura" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
 <a href="https://www.artstation.com/caiquemoura" target="_blank"> <img height="30"src="https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white" target="_blank"></a>
-<a href="https://www.artstation.com/caiquemoura" target="_blank"> <img height="30"src="https://img.shields.io/badge/GitHub Projects-3acfd5.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://projects.cmouradev.com/" target="_blank"> <img height="30"src="https://img.shields.io/badge/GitHub Projects-3acfd5.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
  
 </div>
